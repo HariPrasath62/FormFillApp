@@ -208,7 +208,7 @@
         <form id="registrationForm">
             <div class="form-row">
                 <div class="form-group">
-                    <label for="firstName">First Name</label>
+                    <label for="firstNames">First Name</label>
                     <input type="text" id="firstName" name="firstName" required>
                     <div class="error-message" id="firstNameError"></div>
                 </div>
